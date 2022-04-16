@@ -1,0 +1,23 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+    width: 800px;
+    margin: 5px;
+    border-radius: 18px;
+}
+button, input{
+    margin-bottom: 20px;
+}
+.btn{
+    height: 26px;
+    width: 100px;
+}
